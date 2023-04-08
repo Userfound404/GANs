@@ -1,1 +1,1 @@
-# GANs_fashion_mnist
+# GANs
